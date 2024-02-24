@@ -1,0 +1,16 @@
+.banner-txt {
+    position: absolute;
+    top: 400px;
+    left: 310px;
+    line-height: 50px;
+    color:rgb(5, 23, 39);
+  }
+  
+  .banner-txtp {
+    position: absolute;
+    top: 400px;
+    left: 145px;
+    font-size: 25px;
+    color: rgb(6, 26, 43);
+  }
+  

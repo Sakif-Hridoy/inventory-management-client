@@ -1,0 +1,28 @@
+.street{
+    position: absolute;
+    top:3350px;
+    left: 530px;
+    font-size: 70px;
+}
+
+.casual{
+    position: absolute;
+    top:3300px;
+    left: 535px;
+    font-size: 20px;
+    
+}
+
+.shoe1{
+    position: absolute;
+    top:3340px;
+    left: 980px;
+    font-size: 40px;
+}
+
+.shoe2{
+    position: absolute;
+    top:3552px;
+    left: 880px;
+    font-size: 40px;
+}
